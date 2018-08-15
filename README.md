@@ -7,7 +7,7 @@ Making a list of awesome CSS Variable resources and libraries (and dashing it tw
 ### GSAP (https://github.com/greensock/GreenSock-JS)
 > by (@greensock)[https://github.com/greensock]
 
-"Ultra high-performance, professional-grade animation for the modern web."  It recently added CSS variables to its arsenol of animation techniques.  Among animation engines, the team claims it to be the fastest and the most backward compatible.
+"Ultra high-performance, professional-grade animation for the modern web."  It recently added CSS variables to its arsenal of animation techniques.  Among animation engines, the team claims it to be the fastest and the most backward compatible.
 
 ### Just Animate (https://github.com/just-animate/just-animate)
 > by (@notoriousb1t)[https://github.com/notoriousb1t]
