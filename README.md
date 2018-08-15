@@ -21,33 +21,40 @@ Making a list of awesome CSS Variable resources and libraries (and dashing it tw
 
 (insert summary)
 
-## Libraries
+## Animation Engines
 
-### Animation Engines
-
-#### Flipping
+### Flipping
 * https://github.com/davidkpiano/flipping
 * by [davidkpiano](https://github.com/davidkpiano)
 
 A library (and collection of adapters) for implementing FLIP transitions.  It has multiple strategies for completing FLIP transitions.  The CSS adapter supports using CSS Variables.
 
-#### GSAP
+### GSAP
 * https://github.com/greensock/GreenSock-JS 
 * https://greensock.com 
 * by [@greensock](https://github.com/greensock)
 
 "Ultra high-performance, professional-grade animation for the modern web."  It recently added CSS variables to its arsenal of animation techniques.  Among animation engines, the team claims it to be the fastest and the most backward compatible.
 
-#### Just Animate 
+### Just Animate 
 * https://github.com/just-animate/just-animate
 * https://just-animate.github.io/
 * by [@notoriousb1t](https://github.com/notoriousb1t)
 
 A general animation engine that uses the Web Animation API for style based animation and has its own animation engine with an extensible plugin system for animating SVG, CSS variables, etc.
 
-### HTML-Processing / Text Splitting
+## CSS (Processors)
 
-#### Splitting 
+### CSSPlus
+* https://github.com/tomhodgins/cssplus
+* https://csspl.us/
+* by [@tomhodgins](https://github.com/tomhodgins)
+ 
+CSSplus is a family of CSS reprocessing plugins that give you more power when writing CSS. It's called “CSSplus” because it's CSS plus JavaScript, the method most of these plugins use to add power to CSS is by having JavaScript dynamically update CSS variables with information about the browser and elements.
+
+## HTML-Processing / Text Splitting
+
+### Splitting 
 * https://github.com/shshaw/Splitting
 * https://splitting.js.org
 * by [@shshaw](https://github.com/shshaw)
@@ -56,9 +63,9 @@ Splitting is a JavaScript microlibrary designed to split (section off) an elemen
 
 Most Splitting methods utilize a series of <span>s populated with CSS variables and data attributes unlocking transitions and animations that were previously not feasible with CSS.
 
-### Scrolling
+## Scrolling
 
-#### BasicScroll 
+### BasicScroll 
 * https://github.com/electerious/basicScroll
 * https://basicscroll.electerious.com
 * by [@electerious](https://github.com/electerious)
@@ -67,7 +74,7 @@ Standalone parallax scrolling for mobile and desktop with CSS variables.
 
 basicScroll allows you to change CSS variables depending on the scroll position. Use the variables directly in your CSS to animate whatever you want. Highly inspired by skrollr and Reactive Animations with CSS Variables.
 
-#### ScrollOut 
+### ScrollOut 
 * https://github.com/scroll-out/scroll-out
 * https://scroll-out.github.io
 * by [@notoriousb1t](https://github.com/notoriousb1t)
@@ -76,9 +83,9 @@ Install ScrollOut and decorate elements with the data-scroll attribute. As eleme
 
 Use the `cssProps` to animate based on scroll position and to do parallax.
 
-### SVG
+## SVG
 
-#### Lengthy 
+### Lengthy 
 * https://github.com/shshaw/lengthy-svg
 * by [@shshaw](https://github.com/shshaw)
 
