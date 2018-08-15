@@ -9,17 +9,17 @@ Making a list of awesome CSS Variable resources and libraries (and dashing it tw
 #### A Strategy Guide To CSS Custom Properties
 * https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/ 
 
-(insert summary)
+This article outlines the basics of using CSS Variables by comparing them to variables found in pre-processors such as Sass.   
 
 #### CSS Custom Properties and Theming
 * https://css-tricks.com/css-custom-properties-theming/ 
 
-(insert summary)
+This post shows how CSS Variables can be used to dynamically theme websites.  This is a common problem when "white labeling" digital content.
 
 #### Using CSS custom properties (variables)
 * https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables 
 
-(insert summary)
+This is the definitive guide for getting started with CSS Variables. Like most of their other content, MDN continues to be the best place to learn in depth how web technology works short of reading the actual specifications.
 
 ## Animation Engines
 
