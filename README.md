@@ -19,6 +19,7 @@ A library (and collection of adapters) for implementing FLIP transitions.  It ha
 
 ### Just Animate 
 * https://github.com/just-animate/just-animate
+* https://just-animate.github.io/
 * by [@notoriousb1t](https://github.com/notoriousb1t)
 
 A general animation engine that uses the Web Animation API for style based animation and has its own animation engine with an extensible plugin system for animating SVG, CSS variables, etc.
@@ -27,6 +28,7 @@ A general animation engine that uses the Web Animation API for style based anima
 
 ### Splitting 
 * https://github.com/shshaw/Splitting
+* https://splitting.js.org
 * by [@shshaw](https://github.com/shshaw)
 
 Splitting is a JavaScript microlibrary designed to split (section off) an element in a variety of ways, such as words, characters, child nodes, and more!
@@ -37,6 +39,7 @@ Most Splitting methods utilize a series of <span>s populated with CSS variables 
 
 ### BasicScroll 
 * https://github.com/electerious/basicScroll
+* https://basicscroll.electerious.com
 * by [@electerious](https://github.com/electerious)
 
 Standalone parallax scrolling for mobile and desktop with CSS variables.
@@ -45,6 +48,7 @@ basicScroll allows you to change CSS variables depending on the scroll position.
 
 ### ScrollOut 
 * https://github.com/scroll-out/scroll-out
+* https://scroll-out.github.io
 * by [@notoriousb1t](https://github.com/notoriousb1t)
 
 Install ScrollOut and decorate elements with the data-scroll attribute. As elements become visible, data-scroll will be set to in and when elements are scrolled out they will be set with out. Add your own CSS or JS to make a big impression when things come into view. That's it!
