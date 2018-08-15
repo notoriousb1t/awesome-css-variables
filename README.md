@@ -4,6 +4,10 @@ Making a list of awesome CSS Variable resources and libraries (and dashing it tw
 
 ## Animation Engines
 
+### [Flipping](https://github.com/davidkpiano/flipping) by [davidkpiano](https://github.com/davidkpiano)
+
+A library (and collection of adapters) for implementing FLIP transitions.  It has multiple strategies for completing FLIP transitions.  The CSS adapter supports using CSS Variables.
+
 ### GSAP (https://github.com/greensock/GreenSock-JS)
 > by [@greensock](https://github.com/greensock)
 
