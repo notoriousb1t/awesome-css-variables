@@ -1,4 +1,4 @@
-# Awesome CSS Variables
+# Awesome CSS Variables [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Making a list of awesome CSS Variable resources and libraries (and dashing it twice!)
 
