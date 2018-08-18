@@ -95,3 +95,8 @@ Lengthy is a JavaScript microlibrary (1.2kb min, 0.7kb gzipped) to get the lengt
 
 
 
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Christopher Wallis](https://twitter.com/notoriousb1t) has waived all copyright and related or neighboring rights to this work.
