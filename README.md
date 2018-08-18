@@ -33,11 +33,17 @@ This is the definitive guide for getting started with CSS Variables. Like most o
 
 ## Demos
 
+### Megaman READY! (CodePen)
+* https://codepen.io/notoriousb1t/pen/vroZox
+* by [@notoriousb1t](https://github.com/notoriousb1t)
+
+Reproduces the famous "READY" from the Megaman games without using JavaScript.  This uses CSS Grid extensively and CSS Variables for timing and changing the end point of the exploding blocks
+
 ## Animation Engines
 
 ### Flipping
 * https://github.com/davidkpiano/flipping
-* by [davidkpiano](https://github.com/davidkpiano)
+* by [@davidkpiano](https://github.com/davidkpiano)
 
 A library (and collection of adapters) for implementing FLIP transitions.  It has multiple strategies for completing FLIP transitions.  The CSS adapter supports using CSS Variables.
 
