@@ -2,6 +2,16 @@
 
 Making a list of awesome CSS Variable resources and libraries (and dashing it twice!)
 
+## Table of Contents
+
+- [Guides](#guides)
+- [Demos](#demos)
+- [Animation Engines](#animation-engines)
+- [CSS (Processors)](#css-processors)
+- [HTML Processing](#html-processing)
+- [Scrolling](#scrolling)
+- [SVG](#svg)
+
 ## Guides
 
 ### Getting Started
@@ -54,7 +64,7 @@ A general animation engine that uses the Web Animation API for style based anima
  
 CSSplus is a family of CSS reprocessing plugins that give you more power when writing CSS. It's called “CSSplus” because it's CSS plus JavaScript, the method most of these plugins use to add power to CSS is by having JavaScript dynamically update CSS variables with information about the browser and elements.
 
-## HTML-Processing / Text Splitting
+## HTML Processing
 
 ### Splitting 
 * https://github.com/shshaw/Splitting
