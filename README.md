@@ -21,6 +21,8 @@ This post shows how CSS Variables can be used to dynamically theme websites.  Th
 
 This is the definitive guide for getting started with CSS Variables. Like most of their other content, MDN continues to be the best place to learn in depth how web technology works short of reading the actual specifications.
 
+## Demos
+
 ## Animation Engines
 
 ### Flipping
