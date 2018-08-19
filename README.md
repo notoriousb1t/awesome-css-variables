@@ -33,6 +33,12 @@ This is the definitive guide for getting started with CSS Variables. Like most o
 
 ## Demos
 
+### Easy Theming w/ the Color Picker (CodePen)
+* https://codepen.io/bloqhead/pen/rJpMXR
+* by [@bloqhead](https://codepen.io/bloqhead)
+
+Tick the color you want to change the theme. The theme color switching is controlled via JS and simply changes a root CSS Variable's hex value. 
+
 ### Megaman READY! (CodePen)
 * https://codepen.io/notoriousb1t/pen/vroZox
 * by [@notoriousb1t](https://github.com/notoriousb1t)
