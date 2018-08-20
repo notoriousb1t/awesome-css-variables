@@ -44,11 +44,24 @@ This free video series takes the viewer through the basics of CSS Variables, how
 
 Tick the color you want to change the theme. The theme color switching is controlled via JS and simply changes a root CSS Variable's hex value. 
 
+### Hover Highlight Effect (CodePen)
+* https://codepen.io/shshaw/pen/MoxrPV
+* by [@shshaw](https://codepen.io/shshaw)
+
+Challenge by @DavidKPiano to recreate this effect: https://twitter.com/SergioPedri/status/885441708820975616.  Uses CSS variables, but still looks great without.
+
 ### Megaman READY! (CodePen)
 * https://codepen.io/notoriousb1t/pen/vroZox
 * by [@notoriousb1t](https://github.com/notoriousb1t)
 
 Reproduces the famous "READY" from the Megaman games without using JavaScript.  This uses CSS Grid extensively and CSS Variables for timing and changing the end point of the exploding blocks
+
+### Splitting: CSS vars for split words & chars (CodePen)
+* https://codepen.io/shshaw/pen/XVjKrG
+* by [@shshaw](https://codepen.io/shshaw)
+
+Examples of text effects built with Splitting: https://splitting.js.org
+These animations/transitions are all done with CSS after Splitting adds helper spans & CSS Variables.
 
 ### The Charmeleon from Null Island (CodePen)
 * https://codepen.io/airnan/pen/gvBMPV
