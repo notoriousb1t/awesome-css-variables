@@ -44,11 +44,11 @@ This free video series takes the viewer through the basics of CSS Variables, how
 
 Tick the color you want to change the theme. The theme color switching is controlled via JS and simply changes a root CSS Variable's hex value. 
 
-### Hover Highlight Effect (CodePen)
-* https://codepen.io/shshaw/pen/MoxrPV
+### CSS Vars - A Collection by Shaw (CodePen Collection)
+* https://codepen.io/collection/AapJoR/
 * by [@shshaw](https://codepen.io/shshaw)
 
-Challenge by @DavidKPiano to recreate this effect: https://twitter.com/SergioPedri/status/885441708820975616.  Uses CSS variables, but still looks great without.
+A collection of pens using CSS Variables by Shaw.
 
 ### Megaman READY! (CodePen)
 * https://codepen.io/notoriousb1t/pen/vroZox
