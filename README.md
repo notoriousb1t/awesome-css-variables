@@ -31,6 +31,11 @@ This post shows how CSS Variables can be used to dynamically theme websites.  Th
 
 This is the definitive guide for getting started with CSS Variables. Like most of their other content, MDN continues to be the best place to learn in depth how web technology works short of reading the actual specifications.
 
+#### Learn CSS Variables for free
+* https://scrimba.com/playlist/ppYrcJ
+
+This free video series takes the viewer through the basics of CSS Variables, how to use them in theming, and how to change them through JavaScript.
+
 ## Demos
 
 ### Easy Theming w/ the Color Picker (CodePen)
