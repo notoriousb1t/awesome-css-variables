@@ -45,6 +45,14 @@ Tick the color you want to change the theme. The theme color switching is contro
 
 Reproduces the famous "READY" from the Megaman games without using JavaScript.  This uses CSS Grid extensively and CSS Variables for timing and changing the end point of the exploding blocks
 
+### The Charmeleon from Null Island (CodePen)
+* https://codepen.io/airnan/pen/gvBMPV
+* by [airnan](https://codepen.io/airnan/)
+
+This endangered chameleon species is usually spotted in the dense forests of Null Island.
+With special abilities like camouflaging to background colors and reacting to DOM hovers, it has an appetite for Defaultae Pointericus insects.
+Experimenting with the new lottie-api, CSS Variables and cursor possibilities.
+
 ## Animation Engines
 
 ### Flipping
