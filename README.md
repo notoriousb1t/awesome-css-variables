@@ -31,8 +31,7 @@ Making a list of awesome CSS Variable resources and libraries (and dashing it tw
 |[CSS Vars - A Collection by Shaw (CodePen Collection)](https://codepen.io/collection/AapJoR/)|[@shshaw](https://codepen.io/shshaw)|A collection of pens using CSS Variables by Shaw.|
 |[Megaman READY! (CodePen)](https://codepen.io/notoriousb1t/pen/vroZox)|[@notoriousb1t](https://github.com/notoriousb1t)|Reproduces the famous "READY" from the Megaman games without using JavaScript.  This uses CSS Grid extensively and CSS Variables for timing and changing the end point of the exploding blocks|
 |[Splitting: CSS vars for split words & chars (CodePen)](https://codepen.io/shshaw/pen/XVjKrG)|[@shshaw](https://codepen.io/shshaw)|Examples of text effects built with Splitting: https://splitting.js.org. <br/>These animations/transitions are all done with CSS after Splitting adds helper spans & CSS Variables.|
-|[The Charmeleon from Null Island (CodePen)](https://codepen.io/airnan/pen/gvBMPV)|[airnan](https://codepen.io/airnan/)|This endangered chameleon species is usually spotted in the dense forests of Null Island.<br/>With special abilities like camouflaging to background colors and reacting to DOM hovers, it has an appetite for Defaultae Pointericus insects.<br/>Experimenting with the new lottie-api, CSS Variables and cursor possibilities.
-|
+|[The Charmeleon from Null Island (CodePen)](https://codepen.io/airnan/pen/gvBMPV)|[airnan](https://codepen.io/airnan/)|This endangered chameleon species is usually spotted in the dense forests of Null Island.<br/>With special abilities like camouflaging to background colors and reacting to DOM hovers, it has an appetite for Defaultae Pointericus insects.<br/>Experimenting with the new lottie-api, CSS Variables and cursor possibilities.|
 
 ## Animation Engines
 
