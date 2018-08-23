@@ -22,6 +22,8 @@ Making a list of awesome CSS Variable resources and libraries (and dashing it tw
 |[CSS Custom Properties and Theming](https://css-tricks.com/css-custom-properties-theming/ )|[Chris Coyier](https://twitter.com/chriscoyier)|This post shows how CSS Variables can be used to dynamically theme websites.  This is a common problem when "white labeling" digital content.|
 |[Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables)|N/A|This is the definitive guide for getting started with CSS Variables. Like most of their other content, MDN continues to be the best place to learn in depth how web technology works short of reading the actual specifications.|
 |[Learn CSS Variables for free](https://scrimba.com/playlist/ppYrcJ)|[Per Harald Borgen](https://twitter.com/perborgen)|This free video series takes the viewer through the basics of CSS Variables, how to use them in theming, and how to change them through JavaScript.| 
+|[Individualizing CSS Properties with CSS Variables](https://danielcwilson.com/blog/2017/04/individualized-properties/)|[@dancwilson](https://twitter.com/dancwilson)|This article is an exploration of using CSS Variables in different CSS Properties such as animation-play-state, transforms, and in color channels. As usual, a great and thoughtful read by Dan Wilson.|
+|[Making Custom Properties (CSS Variables) More Dynamic](https://css-tricks.com/making-custom-properties-css-variables-dynamic/)|[@dancwilson](https://twitter.com/dancwilson)|This article explains how changing CSS Variables' values using JavaScript and using CSS inheritence can result in very dynamic webpages. |
 
 ## Demos
 
