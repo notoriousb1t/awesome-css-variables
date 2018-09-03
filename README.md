@@ -5,6 +5,7 @@ Making a list of awesome CSS Variable resources and libraries (and dashing it tw
 ## Table of Contents
 
 - [Guides](#guides)
+- [Talks](#talks)
 - [Demos](#demos)
 - [Animation Engines](#animation-engines)
 - [CSS (Processors)](#css-processors)
