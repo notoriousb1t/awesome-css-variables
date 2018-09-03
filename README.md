@@ -25,6 +25,11 @@ Making a list of awesome CSS Variable resources and libraries (and dashing it tw
 |[Individualizing CSS Properties with CSS Variables](https://danielcwilson.com/blog/2017/04/individualized-properties/)|[@dancwilson](https://twitter.com/dancwilson)|This article is an exploration of using CSS Variables in different CSS Properties such as animation-play-state, transforms, and in color channels. As usual, a great and thoughtful read by Dan Wilson.|
 |[Making Custom Properties (CSS Variables) More Dynamic](https://css-tricks.com/making-custom-properties-css-variables-dynamic/)|[@dancwilson](https://twitter.com/dancwilson)|This article explains how changing CSS Variables' values using JavaScript and using CSS inheritence can result in very dynamic webpages. |
 
+## Meetup/Talks
+|Resource|Author|Description|
+|-|-|-|
+|[CSS Variables: var(--subtitle)](https://www.youtube.com/watch?v=kZOJCVvyF-4)|[@LeaVerou](https://twitter.com/LeaVerou)|This talk from CSSConf.Asia 2016 shows a variety of ways to use CSS Variables as well as well as a deep dive into the syntax.  A great talk by Lea Verou!|
+
 ## Demos
 
 |Resource|Author|Description|
