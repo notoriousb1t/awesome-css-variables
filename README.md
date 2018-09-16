@@ -41,6 +41,7 @@ Making a list of awesome CSS Variable resources and libraries (and dashing it tw
 
 ## Talks
 * **[CSS Variables: var(--subtitle)](https://www.youtube.com/watch?v=kZOJCVvyF-4)** – This talk from CSSConf.Asia 2016 shows a variety of ways to use CSS Variables as well as well as a deep dive into the syntax – by [Lea Verou](https://twitter.com/LeaVerou)
+* **[Interactive Web Apps with CSS Variables](https://youtu.be/D8PiSK35zjc)** – This meetup talk from September 2018 shows advanced CSS Variable techniques and how to use them – by [Christopher Wallis](https://twitter.com/notoriousb1t) 
 
 ## Demos
 
