@@ -50,6 +50,7 @@ Making a list of awesome CSS Variable resources and libraries (and dashing it tw
 * **[Megaman READY! (CodePen)](https://codepen.io/notoriousb1t/pen/vroZox)** – Reproduces the famous "READY" from the Megaman games without using JavaScript.  This uses CSS Grid extensively and CSS Variables for timing and changing the end point of the exploding blocks – by [Christopher Wallis](https://github.com/notoriousb1t)
 * **[Splitting: CSS vars for split words & chars (CodePen)](https://codepen.io/shshaw)** – Examples of text effects built with Splitting: https://splitting.js.org.  These animations/transitions are all done with CSS after Splitting adds helper spans & CSS Variables – by [Stephen Shaw](https://codepen.io/shshaw/pen/XVjKrG)
 * **[The Charmeleon from Null Island (CodePen)](https://codepen.io/airnan/pen/gvBMPV)** – This endangered chameleon species is usually spotted in the dense forests of Null Island. With special abilities like camouflaging to background colors and reacting to DOM hovers, it has an appetite for Defaultae Pointericus insects. Experimenting with the new lottie-api, CSS Variables and cursor possibilities – by [Hernan Torrisi](https://codepen.io/airnan/)
+* **[Custom properties – A collection by Goiblas (CodePen Collection)](https://codepen.io/collection/XKqNPE/)** – A collection with examples of use – by [Jesús Olazagoitia](https://codepen.io/goiblas/)
 
 ## Animation Engines
 
