@@ -27,14 +27,6 @@ Making a list of awesome CSS Variable resources and libraries (and dashing it tw
 
 * **[CSS Custom Properties and Theming](https://css-tricks.com/css-custom-properties-theming/ )** – This post shows how CSS Variables can be used to dynamically theme websites.  This is a common problem when "white labeling" digital content – by [Chris Coyier](https://twitter.com/chriscoyier)
 
-### Sizing
-
-> (articles needed!)
-
-### Indexing
-
-> (articles needed!)
-
 ### Positioning
 
 * **[Making Custom Properties (CSS Variables) More Dynamic](https://css-tricks.com/making-custom-properties-css-variables-dynamic)** – This article explains how changing CSS Variables' values using JavaScript and using CSS inheritence can result in very dynamic webpages – by [Dan C Wilson](https://twitter.com/dancwilson)
