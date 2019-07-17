@@ -68,6 +68,11 @@ Making a list of awesome CSS Variable resources and libraries (and dashing it tw
 
 * **[Lengthy](https://github.com/shshaw/lengthy-svg)** – A JavaScript microlibrary (1.2kb min, 0.7kb gzipped) to get the length of SVG shapes. The length will automatically be added to the element as a CSS Var to make it easy to do CSS animations of SVG stroke-dashoffset for the wonderful line drawing SVG technique and other interesting animations – [Stephen Shaw](https://github.com/shshaw)
 
+## Polyfills
+
+* **[IE11CustomProperties](https://github.com/nuxodin/ie11CustomProperties)** – A lightweight polyfill to enhance IE11 with CSS variables. Features: dynamic added content, respecting the cascade, pseudo-classes like `:hover`, js-integration (`style.setProperty('--x','y')`), and many more  – [Tobias Buschor](https://github.com/nuxodin)
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
