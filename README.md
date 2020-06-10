@@ -33,6 +33,10 @@ Making a list of awesome CSS Variable resources and libraries (and dashing it tw
 
 * **[Hybrid Positioning with CSS Variables and max()](https://lea.verou.me/2020/06/hybrid-positioning-with-css-variables-and-max/)** – Lea shares a useful technique when you are using an absolute position element but still want a sticky behaviour – by [Lea Verou](https://lea.verou.me/about/)
 
+### Responsive
+
+* **[The trick to viewport units on mobile](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/)** – This article explains why the vh unit is not always what we expect on mobiles and how to fix that using a single CSS variable – by [Louis Hoebregts](https://twitter.com/Mamboleoo)
+
 ## Talks
 * **[CSS Variables: var(--subtitle)](https://www.youtube.com/watch?v=kZOJCVvyF-4)** – This talk from CSSConf.Asia 2016 shows a variety of ways to use CSS Variables as well as well as a deep dive into the syntax – by [Lea Verou](https://twitter.com/LeaVerou)
 * **[Interactive Web Apps with CSS Variables](https://youtu.be/D8PiSK35zjc)** – This meetup talk from September 2018 shows advanced CSS Variable techniques and how to use them – by [Christopher Wallis](https://twitter.com/notoriousb1t) 
